@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "name":"HTML"
+    },
+    {
+        "id":2,
+        "name":"JavaScript"
+    },
+    {
+        "id":3,
+        "name":"Python"
+    },
+    {
+        "id":4,
+        "name":"C++"
+    },
+    {
+        "id":5,
+        "name":"Java"
+    },
+    {
+        "id":6,
+        "name":"PHP"
+    },
+    {
+        "id":7,
+        "name":"All Courses"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "id":1,
+        "name":"HTML",
+        "picture":"https://i.ibb.co/m47xRLL/difference-between-html-and-html5.jpg",
+        "details":"HTML is the language in which most websites are written. HTML is used to create pages and make them functional. The code used to make them visually appealing is known as CSS.",
+        "rating":4.5,
+        "teacher":"Wiliam Kerry",
+        "duration":3
+    },
+    {
+        "id":2,
+        "name":"JavaScript",
+        "picture":"https://i.ibb.co/qRhMwZ8/Java-Script.jpg",
+        "details":"JavaScript (js) is a light-weight object-oriented programming language which is used by several websites for scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic interactivity on websites when applied to an HTML document.",
+        "rating":4.5,
+        "teacher":"Robert Hook",
+        "duration":2
+    },
+    {
+        "id":3,
+        "name":"Python",
+        "picture":"https://i.ibb.co/Xtm1NPY/5-Myths-around-Python-programming-language-that-every-programmer-must-know.webp",
+        "details":"Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language.",
+        "rating":5,
+        "teacher":"Wiliam Kerry",
+        "duration":4
+    },
+    {
+        "id":4,
+        "name":"C++",
+        "picture":"https://i.ibb.co/R94LNPB/retina-1708x683-cover-0828-After-All-These-Yearsthe-Worldis-Still-Poweredby-CProgramming-Razvan-News.png",
+        "details":"C++ (or “C-plus-plus”) is a general-purpose programming and coding language. C++ is used in developing browsers, operating systems, and applications, as well as in-game programming, software engineering, data structures, etc.",
+        "rating":4.5,
+        "teacher":"Wiliam Marry",
+        "duration":4
+    },
+    {
+        "id":5,
+        "name":"Java",
+        "picture":"https://i.ibb.co/QDBNBMG/Java-Programming-Basics.jpg",
+        "details":"One of the most widely used programming languages, Java is used as the server-side language for most back-end development projects, including those involving big data and Android development. Java is also commonly used for desktop computing, other mobile computing, games, and numerical computing.",
+        "rating":4.5,
+        "teacher":"Williamson",
+        "duration":3
+    },
+    {
+        "id":6,
+        "name":"PHP",
+        "picture":"https://i.ibb.co/yQWFm0Z/php-tutorials-1024x512.png",
+        "details":"PHP is an open-source server-side scripting language that many devs use for web development. It is also a general-purpose language that you can use to make lots of projects, including Graphical User Interfaces (GUIs).",
+        "rating":4,
+        "teacher":"Wiliam Kerry",
+        "duration":5
+    }
+    
+]
